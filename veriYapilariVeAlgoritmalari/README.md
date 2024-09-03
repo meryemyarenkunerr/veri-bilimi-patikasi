@@ -1,4 +1,4 @@
-# Insertion and Selection Sort Projects
+# Insertion and Selection Sort Projeleri
 ## Proje 1.1
 
     [22,27,16,2,18,6] -> Insertion Sort
