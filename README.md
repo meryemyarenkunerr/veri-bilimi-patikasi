@@ -2,7 +2,7 @@
 
 ## Eğitim Özeti
 
-Bu repository, [Başlangıç Seviye Veri Bilimi Patikası](https://academy.patika.dev/tr/paths/baslangic-seviye-veri-bilimi-patikasi) ve [Orta Seviye Veri Bilimi Patikası](https://academy.patika.dev/tr/paths/orta-seviye-veri-bilimi-patikasi) adlı eğitim programının bir parçası olarak gerçekleştirdiğim projeleri ve çalışmalarımı içermektedir. Eğitim, veri biliminin temel kavramlarını öğrenmeyi ve Python ile SQL gibi araçları kullanarak veri analizi yapmayı hedeflemektedir.
+Bu repository, [Başlangıç Seviye Veri Bilimi Patikası](https://academy.patika.dev/tr/paths/baslangic-seviye-veri-bilimi-patikasi) ve [Orta Seviye Veri Bilimi Patikası](https://academy.patika.dev/tr/paths/orta-seviye-veri-bilimi-patikasi) adlı eğitim programının bir parçası olarak gerçekleştirdiğim projeleri ve çalışmalarımı içermektedir.
 
 ## Eğitim İçeriği
 
