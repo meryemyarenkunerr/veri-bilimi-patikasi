@@ -1,7 +1,5 @@
 # Veri Bilimi Patikası
 
-## Eğitim Özeti
-
 Bu repository, [Başlangıç Seviye Veri Bilimi Patikası](https://academy.patika.dev/tr/paths/baslangic-seviye-veri-bilimi-patikasi) ve [Orta Seviye Veri Bilimi Patikası](https://academy.patika.dev/tr/paths/orta-seviye-veri-bilimi-patikasi) adlı eğitim programının bir parçası olarak gerçekleştirdiğim projeleri ve çalışmalarımı içermektedir.
 
 ## Eğitim İçeriği
