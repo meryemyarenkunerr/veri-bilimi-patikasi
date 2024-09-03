@@ -41,7 +41,10 @@ Kısacası Insertion Sort her elemanın kendisinden önceki eleman(lar)la kıyas
 
 **Big-O gösterimini yazınız.**
 
-Insertion Sort algoritmasının Big-O gösterimi O(n^2)'dir.
+Insertion Sort algoritmasının Big-O gösterimleri;
+
+1. Zaman: O(n^2)
+2. Uzay: O(1) (ek bir bellek alanı kullanmaz, yerinde (in-place) sıralama yapar)
 
 **Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.**
 
