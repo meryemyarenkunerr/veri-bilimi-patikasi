@@ -1,4 +1,4 @@
-# Başlangıç Seviye Veri Bilimi Patikası
+# Veri Bilimi Patikası
 
 ## Eğitim Özeti
 
