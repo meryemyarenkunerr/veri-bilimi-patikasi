@@ -9,7 +9,7 @@ Bu repository, [Başlangıç Seviye Veri Bilimi Patikası](https://academy.patik
 - Algoritma analizi ve Big-O
 - Temel sıralama ve arama algoritmaları
 
-### 2. Python
+### 2. Python
 - Temel Veri Tipleri
 - Operatörler ve İfadeler
 - Döngüler
