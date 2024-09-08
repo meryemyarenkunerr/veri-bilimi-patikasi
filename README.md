@@ -5,15 +5,22 @@ Bu repository, [Başlangıç Seviye Veri Bilimi Patikası](https://academy.patik
 ## Eğitim İçeriği
 
 ### 1. Veri Yapıları ve Algoritmaları
-- Algoritma nedir?
-- Algoritma analizi ve Big-O
-- Temel sıralama ve arama algoritmaları
+- Algoritma Nedir?
+- Algoritma Analizi ve Big-O
+- Temel Sıralama ve Arama Algoritmaları
 
 ### 2. Python
 - Temel Veri Tipleri
 - Operatörler ve İfadeler
 - Döngüler
 - Fonksiyonlar
+
+### 3. SQL
+- SQL Nedir?
+- Temel SQL Komutları
+- JOIN Yapıları
+- Alt Sorgular
+
 
 **İlerledikçe güncellenecek.**
 
