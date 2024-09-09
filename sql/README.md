@@ -30,3 +30,9 @@ Aşağıdaki sorgu senaryolarını **dvdrental** örnek veritabanı üzerinde ge
 3. **film** tablosunda bulunan **title** değerlerinden *kaç tanesi* T karakteri ile başlar *VE* aynı zamanda **rating** 'G' ye eşittir?
 4. *country* tablosunda bulunan **country** değerlerinden *kaç tanesi* 5 karakterden oluşmaktadır?
 5. **city** tablosundaki **city** değerlerinden *kaç tanesi* 'R' veya r karakteri ile biter?
+
+## Ödev 5
+
+1. **film** tablosunda bulunan ve **title** değeri 'n' karakteri ile biten *en uzun 5 filmi* sıralayınız.
+2. **film** tablosunda bulunan ve **title** değeri 'n' karakteri ile biten *en kısa ikinci 5 filmi* sıralayınız.
+3. **customer** tablosunda bulunan **last_name** sütununa göre azalan yapılan sıralamada **store_id** 1 olmak koşuluyla *ilk 4 veriyi* sıralayınız.
