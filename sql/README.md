@@ -36,3 +36,10 @@ Aşağıdaki sorgu senaryolarını **dvdrental** örnek veritabanı üzerinde ge
 1. **film** tablosunda bulunan ve **title** değeri 'n' karakteri ile biten *en uzun 5 filmi* sıralayınız.
 2. **film** tablosunda bulunan ve **title** değeri 'n' karakteri ile biten *en kısa ikinci 5 filmi* sıralayınız.
 3. **customer** tablosunda bulunan **last_name** sütununa göre azalan yapılan sıralamada **store_id** 1 olmak koşuluyla *ilk 4 veriyi* sıralayınız.
+
+## Ödev 6
+
+1. **film** tablosunda bulunan **rental_rate** sütunundaki değerlerin *ortalaması* nedir?
+2. **film** tablosunda bulunan filmlerden *kaç tanesi* 'C' karakteri ile başlar?
+3. **film** tablosunda bulunan filmlerden **rental_rate** değeri 0.99 a eşit olan *en uzun film* kaç dakikadır?
+4. **film** tablosunda bulunan filmlerin uzunluğu 150 dakikadan büyük olanlarına ait kaç farklı **replacement_cost** değeri vardır?
