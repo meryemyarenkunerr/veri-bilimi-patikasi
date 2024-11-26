@@ -21,9 +21,6 @@ Bu repository, [Başlangıç Seviye Veri Bilimi Patikası](https://academy.patik
 - JOIN Yapıları
 - Alt Sorgular
 
-
-**İlerledikçe güncellenecek.**
-
 ## Kullanım
 
 Projeleri kendi bilgisayarınızda çalıştırmak için bu repository'yi klonlayabilirsiniz:
