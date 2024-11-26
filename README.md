@@ -20,3 +20,8 @@ Bu repository, [Başlangıç Seviye Veri Bilimi Patikası](https://academy.patik
 - Temel SQL Komutları
 - JOIN Yapıları
 - Alt Sorgular
+
+### 4. Projeler
+1.  [UK Traffic Accidents](https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales)
+
+
