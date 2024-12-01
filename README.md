@@ -23,5 +23,4 @@ Bu repository, [Başlangıç Seviye Veri Bilimi Patikası](https://academy.patik
 
 ### 4. Projeler
 1.  [UK Traffic Accidents](https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales)
-
-
+2.  [World Hapinness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness/data)
